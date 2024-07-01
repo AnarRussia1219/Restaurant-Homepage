@@ -1,0 +1,17 @@
+{
+  "name": "restaurant-homepage",
+  "version": "1.0.0",
+  "description": "a beatiful and well designed restaurant homepage with animations",
+  "private": true,
+  "scripts": {
+    "webpack:build": "npx webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
