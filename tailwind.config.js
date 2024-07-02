@@ -5,10 +5,8 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                "accent-primary": "#ffffff",
+                "accent-primary": "#ffd324",
                 "accent-primary-contrasting": "#000000",
-                "accent-secondary": "#ffd324",
-                "accent-secondary-contrasting": "#000000",
             },
         },
         borderRadius: {
