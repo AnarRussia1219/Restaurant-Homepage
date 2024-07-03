@@ -14,7 +14,8 @@ module.exports = {
         },
         transitionDuration: {
             "default-1": "0.2s",
-    }
+            "default-1-longer": "0.5s",
+        },
     },
     plugins: [],
 };
